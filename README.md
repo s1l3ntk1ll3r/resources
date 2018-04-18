@@ -9,4 +9,5 @@ This is the config profile for Terminator. (It has redteam visual profile)
 
 ### nessus-weapon-inventory
 This is a list of .nasl plugins which could be weaponized.
+
 `grep -rnw /opt/nessus/lib/nessus/plugins/ -e ".*Nessus was able.*" | cut -d ":" -f 1 > nessus-weapon-inventory`
