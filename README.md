@@ -1,9 +1,15 @@
 # resources
 
-Resources / files for various things
+Resources / files for various things. For more, find me on twitter - https://twitter.com/shellsharks
 
-### feeds
+### Getting Into Information Security
+This is my quick spiel about how newcomers to the infosec field can get their footing.
+
+### feeds(.md)
 This is a list of subreddits, rss feeds and twitter accounts I think are interesting...
+
+### feeds.opml.xml
+List of my current RSS feeds in a format that can be imported into the RSS aggregator of your choice. (I recommend Feedly - https://feedly.com)
 
 ### nessus-weapon-inventory
 This is a list of .nasl plugins which could be weaponized.
