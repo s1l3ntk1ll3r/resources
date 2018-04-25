@@ -2,11 +2,11 @@
 
 Resources / files for various things. For more, find me on twitter - https://twitter.com/shellsharks
 
-### burp-config-*options(.json)
-Burp config files that I use for assessments
-
 ### Getting Into Information Security
 This is my quick spiel about how newcomers to the infosec field can get their footing.
+
+### burpconfig-*options(.json)
+Burp config files that I use for assessments
 
 ### feeds(.md)
 This is a list of subreddits, rss feeds and twitter accounts I think are interesting...
