@@ -35,49 +35,49 @@ Learning to Google for things is probably the most valuable piece of advice I ca
 ### Where to go first!
 Trying to figure out what to do first? These resources are probably your best bet.
 
-https://github.com - Create an account, create code, share code and contribute to others code!
-https://www.kali.org - Download Kali, learn security tools, learn Linux.
-https://nmap.org - Learn network scanning and a little TCP/IP while you're at it!
-https://stackoverflow.com - Can't figure something out, stack's got your back.
-https://www.owasp.org/index.php/Main_Page - First stop for all things web app security.
+* https://github.com - Create an account, create code, share code and contribute to others code!
+* https://www.kali.org - Download Kali, learn security tools, learn Linux.
+* https://nmap.org - Learn network scanning and a little TCP/IP while you're at it!
+* https://stackoverflow.com - Can't figure something out, stack's got your back.
+* https://www.owasp.org/index.php/Main_Page - First stop for all things web app security.
 
 ### Learn to Code
-Everyone in IT (and especially those in security), need to know some scripting.
+Everyone in IT (and especially those in security), needs to know some scripting.
 
-https://www.w3schools.com - Learn the web and how to develop
-https://codefights.com - Coding challenges, brought to you!
-https://www.codecademy.com - Free site to learn coding
-https://www.ruby-lang.org/en/ - Ruby
-https://learnpythonthehardway.org/book/ - Learning python (the hard way)
-https://docs.python.org/3/tutorial/index.html - Python tutorial from python.org
-https://www.python.org - Python
-https://rubyfu.net/content/en/ - Enhance your Rubyfu
-https://ryanstutorials.net/bash-scripting-tutorial/ - Bash scripting tutorials
-https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#professional-development - Free eBooks
+* https://www.w3schools.com - Learn the web and how to develop
+* https://codefights.com - Coding challenges, brought to you!
+* https://www.codecademy.com - Free site to learn coding
+* https://www.ruby-lang.org/en/ - Ruby
+* https://learnpythonthehardway.org/book/ - Learning python (the hard way)
+* https://docs.python.org/3/tutorial/index.html - Python tutorial from python.org
+* https://www.python.org - Python
+* https://rubyfu.net/content/en/ - Enhance your Rubyfu
+* https://ryanstutorials.net/bash-scripting-tutorial/ - Bash scripting tutorials
+* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#professional-development - Free eBooks
 
 ### Learning Courses
 There are plenty of online training sites. Below are some of my favorites.
 
-https://www.youtube.com - Believe it or not, tons of great instructional videos here
-https://www.cybrary.it - Free IT training
-https://courses.edx.org/ - Free online courses in all sorts of fields
-https://www.pluralsight.com - Paid online video training but has a vast library
-https://mva.microsoft.com - Free training from Microsoft
+* https://www.youtube.com - Believe it or not, tons of great instructional videos here
+* https://www.cybrary.it - Free IT training
+* https://courses.edx.org/ - Free online courses in all sorts of fields
+* https://www.pluralsight.com - Paid online video training but has a vast library
+* https://mva.microsoft.com - Free training from Microsoft
 
 ### Penetration Testing
-https://www.vulnhub.com - Test your might against vulnerable VMs developed my the community
-https://www.offensive-security.com/metasploit-unleashed/ - Hacking tutorial by the guys at offsec
+* https://www.vulnhub.com - Test your might against vulnerable VMs developed my the community
+* https://www.offensive-security.com/metasploit-unleashed/ - Hacking tutorial by the guys at offsec
 
 ### Certifications
-https://certification.comptia.org/certifications/security - Entry level certification but provides invaluable entry-level knowledge to the field of security.
-https://www.sans.org - Fantastic cybersecurity training but very expensive.
-https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/ - Best penetration testing training and most widely regarded penetration testing certification.
-https://www.isc2.org/Certifications/CISSP - Need to improve resume? This cert can help (A LOT!)
+* https://certification.comptia.org/certifications/security - Entry level certification but provides invaluable entry-level knowledge to the field of security.
+* https://www.sans.org - Fantastic cybersecurity training but very expensive.
+* https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/ - Best penetration testing training and most widely regarded penetration testing certification.
+* https://www.isc2.org/Certifications/CISSP - Need to improve resume? This cert can help (A LOT!)
 
 ### Other
-https://aws.amazon.com - Heard of the cloud? AWS can give you your own chunk of the cloud to learn within.
-https://ss64.com - Assorted command line references
-https://www.w3.org/Protocols/rfc2616/rfc2616.txt - Learn more about HTTP (1.1)
+* https://aws.amazon.com - Heard of the cloud? AWS can give you your own chunk of the cloud to learn within.
+* https://ss64.com - Assorted command line references
+* https://www.w3.org/Protocols/rfc2616/rfc2616.txt - Learn more about HTTP (1.1)
 
 ## Conclusion
 This is by no means an exhaustive how-to, nor does it represent the best or clearest path to a successful career in infosec. I only hope it can act as a compass for those who are interested.
